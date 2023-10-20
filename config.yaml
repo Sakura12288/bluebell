@@ -1,0 +1,28 @@
+app:
+  name: "web_app"
+  version: "1.0.1"
+  mode: "debug"
+  host: "127.0.0.1"
+  port: 8081
+log:
+  level: "debug"
+  filename: "runtime/login/web_app.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 5
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  password: "123456"
+  database: "bluebell"
+  max_open_conn: 20
+  max_idle_conn: 10
+redis:
+   host: "127.0.0.1"
+   port: 6379
+   password: "Tang28.."
+   db: 0
+   max_open_conn: 20
+   max_idle_conn: 10
+   idle_timeout: 200

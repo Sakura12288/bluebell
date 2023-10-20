@@ -1,0 +1,50 @@
+2023-10-20T20:56:57.159+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T20:57:22.390+0800	INFO	runtime/proc.go:250	Shutdown server ....
+2023-10-20T20:57:22.390+0800	INFO	runtime/proc.go:250	success exit
+2023-10-20T22:00:56.536+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:01:08.194+0800	INFO	runtime/proc.go:250	Shutdown server ....
+2023-10-20T22:01:08.195+0800	INFO	runtime/proc.go:250	success exit
+2023-10-20T22:25:27.960+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:26:57.901+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:28:57.523+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:28:57.537+0800	DEBUG	runtime/proc.go:250	init mysql success
+2023-10-20T22:28:57.537+0800	DEBUG	runtime/proc.go:250	init redis success
+2023-10-20T22:29:59.422+0800	INFO	runtime/proc.go:250	Shutdown server ....
+2023-10-20T22:29:59.422+0800	INFO	runtime/proc.go:250	success exit
+2023-10-20T22:30:03.829+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:30:03.844+0800	DEBUG	runtime/proc.go:250	init mysql success
+2023-10-20T22:30:03.844+0800	DEBUG	runtime/proc.go:250	init redis success
+2023-10-20T22:34:56.061+0800	INFO	runtime/proc.go:250	Shutdown server ....
+2023-10-20T22:34:56.061+0800	INFO	runtime/proc.go:250	success exit
+2023-10-20T22:35:33.506+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:35:33.519+0800	DEBUG	runtime/proc.go:250	init mysql success
+2023-10-20T22:35:33.519+0800	DEBUG	runtime/proc.go:250	init redis success
+2023-10-20T22:35:41.849+0800	INFO	runtime/proc.go:250	Shutdown server ....
+2023-10-20T22:35:41.850+0800	INFO	runtime/proc.go:250	success exit
+2023-10-20T22:39:33.484+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:39:33.508+0800	DEBUG	runtime/proc.go:250	init mysql success
+2023-10-20T22:39:33.508+0800	DEBUG	runtime/proc.go:250	init redis success
+2023-10-20T22:39:33.509+0800	INFO	runtime/proc.go:250	监听地址端口为	{"port": 8081}
+2023-10-20T22:39:40.749+0800	FATAL	runtime/asm_amd64.s:1594	listen:	{"error": "listen tcp: lookup 8081: no such host"}
+2023-10-20T22:41:44.988+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:41:45.003+0800	DEBUG	runtime/proc.go:250	init mysql success
+2023-10-20T22:41:45.003+0800	DEBUG	runtime/proc.go:250	init redis success
+2023-10-20T22:41:45.004+0800	INFO	runtime/proc.go:250	监听地址端口为	{"port": 8081}
+2023-10-20T22:43:06.505+0800	INFO	runtime/proc.go:250	Shutdown server ....
+2023-10-20T22:43:06.506+0800	INFO	runtime/proc.go:250	success exit
+2023-10-20T22:43:10.795+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:43:10.810+0800	DEBUG	runtime/proc.go:250	init mysql success
+2023-10-20T22:43:10.810+0800	DEBUG	runtime/proc.go:250	init redis success
+2023-10-20T22:43:10.810+0800	INFO	runtime/proc.go:250	监听地址端口为	{"port": 8081}
+2023-10-20T22:43:28.941+0800	INFO	gin@v1.9.1/context.go:174	/hello	{"status": 200, "method": "GET", "path": "/hello", "query": "", "ip": "127.0.0.1", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57", "errors": "", "cost": 0}
+2023-10-20T22:43:41.571+0800	INFO	gin@v1.9.1/context.go:174	/hello	{"status": 200, "method": "GET", "path": "/hello", "query": "", "ip": "127.0.0.1", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57", "errors": "", "cost": 0}
+2023-10-20T22:44:21.675+0800	INFO	runtime/proc.go:250	Shutdown server ....
+2023-10-20T22:44:21.676+0800	INFO	runtime/proc.go:250	success exit
+2023-10-20T22:44:26.699+0800	DEBUG	runtime/proc.go:250	init logger success
+2023-10-20T22:44:26.713+0800	DEBUG	runtime/proc.go:250	init mysql success
+2023-10-20T22:44:26.713+0800	DEBUG	runtime/proc.go:250	init redis success
+2023-10-20T22:44:26.713+0800	INFO	runtime/proc.go:250	监听地址端口为	{"port": 8081}
+2023-10-20T22:44:28.312+0800	INFO	gin@v1.9.1/context.go:174	/hello	{"status": 200, "method": "GET", "path": "/hello", "query": "", "ip": "127.0.0.1", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57", "errors": "", "cost": 0}
+2023-10-20T22:44:29.498+0800	INFO	gin@v1.9.1/context.go:174	/hello	{"status": 200, "method": "GET", "path": "/hello", "query": "", "ip": "127.0.0.1", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57", "errors": "", "cost": 0}
+2023-10-20T22:45:49.963+0800	INFO	runtime/proc.go:250	Shutdown server ....
+2023-10-20T22:45:49.963+0800	INFO	runtime/proc.go:250	success exit
