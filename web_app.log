@@ -1,7 +1,0 @@
-2023-10-20T20:53:31.851+0800	DEBUG	runtime/proc.go:250	init logger success
-2023-10-20T20:53:31.874+0800	ERROR	web_app/main.go:38	gorm.Open failed	{"error": "Error 1049 (42000): Unknown database 'sql_demo'"}
-2023-10-20T20:54:18.395+0800	DEBUG	runtime/proc.go:250	init logger success
-2023-10-20T20:55:45.401+0800	INFO	gin@v1.9.1/context.go:174	/hello	{"status": 200, "method": "GET", "path": "/hello", "query": "", "ip": "127.0.0.1", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57", "errors": "", "cost": 50.0028765}
-2023-10-20T20:55:45.505+0800	INFO	gin@v1.9.1/context.go:174	/favicon.ico	{"status": 404, "method": "GET", "path": "/favicon.ico", "query": "", "ip": "127.0.0.1", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57", "errors": "", "cost": 0}
-2023-10-20T20:56:21.245+0800	INFO	runtime/proc.go:250	Shutdown server ....
-2023-10-20T20:56:21.246+0800	INFO	runtime/proc.go:250	success exit
